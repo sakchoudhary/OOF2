@@ -5,5 +5,3 @@ client = smartcar.AuthClient("90844701-84f0-4845-bb9f-6c060ce22216", "c489c726-b
 client.get_auth_url(force=True)
 
 print(client.get_auth_url())
-#helloooo
-#ok
